@@ -30,7 +30,7 @@ Certifique-se de ter o Python 3 instalado no seu computador. Como o jogo utiliza
 
 ### 1. Clonar o repositório
 ```bash
-git clone [https://github.com/rafaelxf-dev/Guitar-Flash-falsificado.git](https://github.com/rafaelxf-dev/Guitar-Flash-falsificado.git)
+git clone https://github.com/rafaelxf-dev/Guitar-Flash-falsificado.git
 cd Guitar-Flash-falsificado
 ```
 
