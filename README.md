@@ -47,5 +47,3 @@ python guitar_flash.py
 - **Trilha 3 (Amarelo):** Tecla J
 - **Trilha 4 (Azul):** Tecla K
 - **Sair / Encerrar:** Tecla ESC
-
-Desenvolvido por **[Rafael Xavier de Farias](https://github.com/rafaelxf-dev)**
