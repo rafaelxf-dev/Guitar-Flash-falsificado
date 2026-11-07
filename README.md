@@ -40,3 +40,10 @@ Execute o script principal diretamente pelo terminal:
 ```
 python guitar_flash.py
 ```
+
+## 🎮 Controles do Jogo
+- **Trilha 1 (Verde):** Tecla A
+- **Trilha 2 (Vermelho):** Tecla S
+- **Trilha 3 (Amarelo):** Tecla J
+- **Trilha 4 (Azul):** Tecla K
+- **Sair / Encerrar:** Tecla ESC
